@@ -46,21 +46,21 @@ xteamkey = 'Dawnfrostkey'
 //xteam        MIMINETBOT
 namaig = 'GAK ADA :)'
 namagithub = 'GAK ADA :)'
-kasihcaption = `Nih Tod`
+kasihcaption = `Nih Kak`
 namakontak1 = 'Owner'
 namakontak2 = 'Owner'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'By AlyaaXd' // ganti aja
-global.author = 'AlyaaXd' // ganti aja
+global.packname = 'By 𝑹𝑬𝑺𝑻𝑼𝑩𝑶𝑻𝑺' // ganti aja
+global.author = '𝑹𝑬𝑺𝑻𝑼𝑩𝑶𝑻𝑺' // ganti aja
 
 //yyy
 bc = 'Restubotz' //Restu Broadcast
-footer = '\n©RestuGanteng'
-namabot = 'Restu'
-namalu = 'Restu'
+footer = '\n©𝑹𝑬𝑺𝑻𝑼𝑩𝑶𝑻𝑺'
+namabot = '𝑹𝑬𝑺𝑻𝑼𝑩𝑶𝑻𝑺'
+namalu = '𝑹𝑬𝑺𝑻𝑼𝑩𝑶𝑻𝑺'
 
 
 // 
