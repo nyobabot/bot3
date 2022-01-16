@@ -31,26 +31,11 @@ let handler  = async (m, { conn, usedPrefix }) => {
 ➥ *Uptime:* ${uptime}
 
 ═ 〘 DONASI 〙 ═
-➥ Pulsa : 6285730903853
-➥ Dana & OVO: 6285730903853
-
-
-➥ Request? https://github.com/AlyaaXd
-
-Official Grup :
-
-Grup 1 :
-https://chat.whatsapp.com/HJ9pD2XJ8vq7whuAYOvT1Y
-
-Grup 2 :
-https://chat.whatsapp.com/HJ9pD2XJ8vq7whuAYOvT1Y
-
-Grup 3 :
-https://chat.whatsapp.com/HJ9pD2XJ8vq7whuAYOvT1Y
-
+➥ Pulsa : 089516809533
+➥ Dana & OVO: 089516809533
 
  ©BaseNew ${namabot}
- Script original by AlyaaXd
+ Script original by Restu
  
  
 ═〘 ${namabot} 〙 ═
